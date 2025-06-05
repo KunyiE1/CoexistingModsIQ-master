@@ -73,7 +73,7 @@ make install
 The installation time is about 1 minutes. 
 
 ## Simple Manual for Getting Started
-The inpu of the program are:\
+The input of the program includes:
 - **var_mods.txt**: a text file with variable modification informations
 - **Spectrum data**: .msalign file ans .feature file
 - **ref_peptide.txt**: containing the sequences corresponding to the spectra, should be in the same directory as spectrum data files.
@@ -90,7 +90,7 @@ bin/topmg -i ToyCaseForTesting/var_mods.txt ToyCaseForTesting/sim_ms2.msalign
 ```
 The toy dataset contains 10 spectra and their corresponding peptide sequence. The expected running time is about 2 seconds. 
 
-The results will be stored in the results.txt as a ouput file.
+The results will be stored in the results.txt as an ouput file.
 
 ## Simulator
 The python3.9 code for simulator could be found in the folder **"HomMTM PSM simulator"**
