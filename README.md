@@ -93,15 +93,14 @@ The toy dataset contains 10 spectra and their corresponding peptide sequence. Th
 The results will be stored in the results.txt as a ouput file.
 
 ## Simulator
-The python code for simulator could be found in the folder **"HomMTM PSM simulator"**
+The python3.9 code for simulator could be found in the folder **"HomMTM PSM simulator"**
 
 packages required:
--numpy
--params
--random
--re
--pickle
--math
+- numpy
+- random
+- re
+- pickle
+- math
 
 just run the python script **RunSimulator.py**, simulated HomMTM PSMs will be generated. 
 
