@@ -1,0 +1,3 @@
+NQ+0.984,0.984,NQ,any,1
+
+#Oxidation,15.994915,CPKDNRY,any,35

@@ -1,0 +1,2 @@
+phosphorylation,79.9663,TSY,any,21
+Oxidation,15.994915,M,any,35

@@ -1,0 +1,1 @@
+ID	offset	Error	Mod1	Mod2	Abund1	Abund2	q1	q2

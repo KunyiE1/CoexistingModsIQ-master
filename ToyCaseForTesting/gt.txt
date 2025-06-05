@@ -1,0 +1,11 @@
+ID	Error	Mod1	Mod2	Abund1	Abund2	q1	q2	MissPeaks1	MissPeaks2
+0	1480218.243609539	<Oxidation,1><phosphorylation,8>	<Oxidation,1><phosphorylation,11>	0.3	0.7	12741.85764	29731.00116	[]	[]
+1	394691.3388990656	<phosphorylation,9>	<phosphorylation,10>	0.3	0.7	2757.23406	6433.54614	[]	[]
+2	228151.4613167046	<phosphorylation,1>	<phosphorylation,3>	0.3	0.7	2470.83156	5765.27364	[]	[]
+3	981091.4730302552	<phosphorylation,1>	<phosphorylation,3>	0.3	0.7	6558.73146	15303.70674	[6]	[6]
+4	164943.1091952485	<phosphorylation,1>	<phosphorylation,2>	0.3	0.7	2770.30641	6464.04829	[]	[]
+5	535465.7654879721	<phosphorylation,10>	<phosphorylation,11>	0.3	0.7	9772.03275	22801.40975	[]	[]
+6	175291.6271666614	<phosphorylation,4>	<phosphorylation,1>	0.3	0.7	2462.15511	5745.02859	[]	[]
+7	340326.36680828617	<phosphorylation,6>	<phosphorylation,7>	0.3	0.7	3837.57231	8954.33539	[2,12]	[2,12]
+8	401475.44992692786	<phosphorylation,6>	<phosphorylation,4>	0.3	0.7	4344.10593	10136.24717	[1]	[1]
+9	763396.927006827	<phosphorylation,1>	<phosphorylation,3>	0.3	0.7	6184.6905	14430.9445	[]	[]

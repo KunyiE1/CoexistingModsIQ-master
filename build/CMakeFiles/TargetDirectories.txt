@@ -1,0 +1,8 @@
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/topmg.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/edit_cache.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/rebuild_cache.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/list_install_components.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/install.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/install/local.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/install/strip.dir
+/home/kunyili/Desktop/CoexistingModsIQ/build/CMakeFiles/topmg_autogen.dir
