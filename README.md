@@ -1,5 +1,5 @@
 # Coexisting Modifications Combinations Identification and Quantification
-sTopMG is implemented by changing original topmg which is included in TopPIC. 
+This tool is implemented by changing original topmg which is included in TopPIC. 
 For further information and detailed manual, please visit https://www.toppic.org/software/toppic/
 
 ## System requirements
